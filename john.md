@@ -2,7 +2,7 @@
 
 ## Demographics
 
-Age: 36
+- Age: 36
 - Experience: former IT Pro/Sysadmin, Programming in a variety of languages, Web design and engineering, Open Source, Linux
 - Location: Chapel Hill, NC
 - Family: Artist/designer brother, Architect/inventor/general weirdo father, Mother in public school admin,
