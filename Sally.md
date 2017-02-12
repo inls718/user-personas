@@ -1,7 +1,7 @@
 #Sally Persona
 
 ##Who? 
-Sally Persona is an undergraduate who just got accepted into an EE program. She has a general college level education, including physics and math, but no specific knowledge of GNU Radio.
+Sally Persona is an 18 year old undergraduate who just got accepted into an EE program. She has a general college level education, including physics and math, but no specific knowledge of GNU Radio. 
 
 ##Why? 
 Her mentor has mentioned the unique qualities of GNU Radio. she is also a budding hobbyist!
